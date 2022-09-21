@@ -1,4 +1,6 @@
-Some files are really too large to upload, so the project here is incomplete. For the whole project please refer [this BaiDu Net Disk link](https://pan.baidu.com/s/1T7yqJtkoD6_0AU3m-E0O2w) (fetch code: J93P)
+Some files are really too large to upload, so the project here is incomplete. 
+
+To download the whole project, please refer [this BaiDu Net Disk link](https://pan.baidu.com/s/1T7yqJtkoD6_0AU3m-E0O2w) (fetch code: J93P)
 
 # 说明
 
