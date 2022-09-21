@@ -1,0 +1,3 @@
+export CUDA_VISIBLE_DEVICES=7 
+python generateCaption.py --model log/log_base_rl/model.pth --infos_path log/log_base_rl/infos_base.pkl  --dump_images 0 --dump_json 1 --num_images -1 --language_eval 0 --beam_size 2 --batch_size 1
+python generateCaption.py --model log/log_aoanet_rl/model.pth --infos_path log/log_aoanet_rl/infos_aoanet.pkl  --dump_images 0 --dump_json 1 --num_images -1 --language_eval 0 --beam_size 2 --batch_size 1
