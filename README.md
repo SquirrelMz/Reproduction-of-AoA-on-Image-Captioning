@@ -9,7 +9,7 @@
   * cider和coco-caption包，已经作为子模块放在project中
 
 
-- 模型实现的核心部分是`AoANet`
+- 模型实现的核心部分在`AoANet`文件夹
 - `self-critical.pytorch-master` 用于强化学习
 
 * 由于**下载和处理后的数据文件**和**代码运行记录文件（log）**较大（共200+GB），所以在提交的代码中没有附上
